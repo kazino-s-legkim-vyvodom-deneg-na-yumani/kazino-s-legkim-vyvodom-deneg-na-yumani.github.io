@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-legkim-vyvodom-deneg-na-yumani.github.io
+Sitemap: https://kazino-s-legkim-vyvodom-deneg-na-yumani.github.io/sitemap.xml
